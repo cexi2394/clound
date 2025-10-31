@@ -1,0 +1,14 @@
+[
+  {
+    "name": "文档1.pdf",
+    "url": "docs/文档1.pdf",
+    "type": "document",
+    "size": "2.5 MB"
+  },
+  {
+    "name": "照片.jpg",
+    "url": "images/照片.jpg",
+    "type": "image",
+    "size": "1.2 MB"
+  }
+]
